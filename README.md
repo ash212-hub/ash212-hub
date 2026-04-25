@@ -1,6 +1,6 @@
  <div align="center">
 
-![banner](https://github.com/ash212-hub/ash212-hub/blob/main/Ashif%20shaik.png)
+![banner](https://github.com/ash212-hub/ash212-hub/blob/main/1.png)
 
 </div>
 
