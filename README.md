@@ -80,8 +80,9 @@ const currentlyLearning = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ash212-hub&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1b2a&title_color=00c6ff&icon_color=7b2ff7&text_color=e2e8f0" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ash212-hub&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1b2a&title_color=00c6ff&text_color=e2e8f0" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ash212-hub&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1b2a&title_color=00c6ff&icon_color=7b2ff7&text_color=e2e8f0" />
+</a><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ash212-hub&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1b2a&title_color=00c6ff&text_color=e2e8f0" />
 
 <br/>
 
